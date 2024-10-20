@@ -1,3 +1,7 @@
 {
-"password": "painzyazure"
+  "users": [
+    {
+      "password": "painzyazure"
+    }
+  ]
 }
